@@ -28,3 +28,15 @@
 - 😘
 - 🙁
 - 🤪
+
+#Shortcuts I frequently use
+
+- Ctrl-Z (Undo)
+- Ctrl-Y (Redo)
+- Ctrl-C (Copy)
+
+#Shortcuts I would like to use
+
+- Ctrl-X (Cut)
+- Ctrl-P (Print)
+- Alt+F4 (Close Windows)
