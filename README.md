@@ -40,3 +40,7 @@
 - Ctrl-X (Cut)
 - Ctrl-P (Print)
 - Alt+F4 (Close Windows)
+
+Lab6
+
+[CLI commands](Docs/Cli.md)
