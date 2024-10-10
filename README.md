@@ -41,6 +41,6 @@
 - Ctrl-P (Print)
 - Alt+F4 (Close Windows)
 
-Lab6
+Lab 6
 
 [CLI commands](Docs/Cli.md)
